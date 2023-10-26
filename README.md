@@ -1,4 +1,4 @@
-# Proxumer - Frontend Developer Interview Question
+# Sale Here - Frontend Developer Interview Question
 
 Objective: A web-based, GraphQL-powered chat client
 
